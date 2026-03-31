@@ -28,10 +28,9 @@ body{
 }
 
 .hero{
-    width:100%;
+    width:90%;
+    margin-left:50px;
     position:relative;
-    margin-top:5px;
-    margin-left:90px;
 }
 
 .second{
@@ -206,7 +205,7 @@ body{
         cursor: pointer;
         padding: 10px;
         border-radius: 10px;
-        border:solid rgb(242, 231, 233);
+        border:solid rgb(253, 249, 250);
         margin-right: 50px;
         margin-bottom: 30px;
         margin-top:25px;
@@ -266,7 +265,7 @@ body{
 
 .happy{
     background-color: rgb(255, 244, 244);
-    margin-left: 150px;
+    margin-left: 155px;
 }
 
 .nagpur{
