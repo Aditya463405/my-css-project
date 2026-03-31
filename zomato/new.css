@@ -94,11 +94,12 @@ body{
 
 .hx{
     display:inline-block;
-    margin-top: 80px;
+    margin-top: 68px;
     margin-left: 310px;
     font-size: x-small;
     font-family: "DM Sans", sans-serif;
     cursor: pointer;
+    height:25px;
 }
 
 .hello{
@@ -111,9 +112,15 @@ body{
 
 .love{
     display:inline-block;
-    margin:20px;
+    margin:20px, 20px, 0px, 20px;
     position: relative;
     width:170px;
+    height:100%;
+    padding:5px;
+}
+
+.love:hover{
+    border-bottom: solid 2px red;
 }
 
 .hot{
@@ -146,10 +153,11 @@ body{
     height: 40px;
 }
 
-.hii{
+
+/* .hii{
     position:absolute;
     left:410px;
-}
+} */
 
 .head{
     background-color: rgb(247, 233, 233);
