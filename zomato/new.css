@@ -120,7 +120,7 @@ body{
 }
 
 .love:hover{
-    border-bottom: solid 2px red;
+    border-bottom: 2px red solid;
 }
 
 .hot{
