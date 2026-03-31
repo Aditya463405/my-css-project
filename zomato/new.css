@@ -1,0 +1,64 @@
+img{
+    width: 50px;
+    height: 50px;
+}
+
+.home{
+    display:inline-block;
+    font-size: 24px;
+}
+
+.u{
+    display:inline-block;
+}
+
+.h{
+    display:inline-block;
+}
+
+.j{
+    display:inline-block;
+}
+
+.gabber1{
+    position:relative;
+}
+
+.name1{
+    position:absolute;
+    left:70px;
+    top:25px;
+}
+
+.gabber2{
+    position:relative;
+}
+
+.name2{
+    position:absolute;
+    left:230px;
+    top:25px;
+}
+.sir2{
+    position:absolute;
+    left:170px;
+    top:10px;
+
+}
+
+.gabber3{
+    position:relative;
+}
+
+.sir3{
+    position:absolute;
+    left:300px;
+    top:10px;
+}
+
+.name3{
+    position:absolute;
+    left:360px;
+    top:25px;
+}
+
