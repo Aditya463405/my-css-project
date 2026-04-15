@@ -55,7 +55,7 @@ button{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image:url(./download.jpg);
+    background-image:url(download.jpg);
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
